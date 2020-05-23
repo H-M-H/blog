@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HMH's Blog"
+theme = "basic"
+
+[[params.menu]]
+  name = "Posts"
+  url = "posts/"
