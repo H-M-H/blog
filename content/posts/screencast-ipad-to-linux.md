@@ -1,7 +1,7 @@
 ---
 title: "Cast your iPad's Screen to Linux"
 date: 2020-05-23T10:07:55+02:00
-draft: true
+draft: false
 ---
 
 ## Overview
