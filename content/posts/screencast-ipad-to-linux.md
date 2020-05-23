@@ -7,7 +7,7 @@ draft: false
 ## Overview
 This post is going to explain how to record the screen of your iPad and stream it to your Linux
 system with latencies of about two seconds. Unfortunately Apple makes things quite a bit more
-complicated as they have to be to keep you within their walled garden, so lets see how to break
+complicated than they have to be to keep you within their walled garden, so lets see how to break
 free.
 
 There are three components to the solution I found:
