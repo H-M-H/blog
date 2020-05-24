@@ -59,6 +59,9 @@ rtmp {
 ```
 For documentation on all RTMP options refer to
 https://github.com/arut/nginx-rtmp-module/wiki/Directives .
+After configuring RTMP nginx needs to be restarted or at least reloaded to read the new
+configuration. On Arch Linux and Ubuntu this is done with `systemctl restart nginx`, on Arch Linux
+nginx needs to be enabled first with `systemctl enable nginx`.
 
 ## The App
 On your iPad an app is required to stream your screen via RTMP.  After extensive research the only
